@@ -30,3 +30,19 @@ body {
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
+
+#nav-list {
+  text-align: center;
+  background-color: #61122f;
+}
+
+section > div {
+  background-color: #AAAAAA;
+  color: #002200;
+  font-size: 20px;
+}
+
+#main-content {
+  padding-left: 30px;
+  padding-right: 30px;
+}
